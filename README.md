@@ -1,0 +1,2 @@
+# Classification_Household_solid_wastes
+Classification utilizing Resnet50 for household solid wastes
